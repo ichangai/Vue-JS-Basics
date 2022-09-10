@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        {"title": "UX Designer", "id": 1, "details": "user interface Designer"},
+        {"title": "Cloud Engineer", "id": 2, "details": "Cloud services and engineering"},
+        {"title": "Software Engineer", "id": 1, "details": "Designs API, backend, and database"}
+    ]
+}
