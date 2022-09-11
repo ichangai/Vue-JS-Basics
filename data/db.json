@@ -1,0 +1,28 @@
+{
+     "posts": [
+        {
+            "id": 1,
+            "title": "How AI is transforming Advertising",
+            "body": "Brandex is utilizing AI to advertise products and services by advertising the right products and services to the right audience at the right time",
+            "tags": [
+                "Advert",
+                "Artificial Intelligence",
+                "AI",
+                "products",
+                "services"
+            ]
+        },
+        { 
+            "id": 2, 
+            "title": "How AI is used in improving Shopping Experience", 
+            "body": "Supermarkets are now using automated checkout baskets which will eliminate the need for serving in long lines by cashiers and also improve user shopping experience",
+            "tags": [
+                "User Experience",
+                "Supermarkets",
+                "Checkout",
+                "tech",
+                "AI"
+            ]
+        }
+     ]
+}
